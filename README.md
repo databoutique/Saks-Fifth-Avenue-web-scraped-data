@@ -1,0 +1,14 @@
+# Saks Fifth Avenue web scraped data 
+
+## About the website
+
+**Saks Fifth Avenue** is a high-end luxury retail store specializing in designer clothing, shoes, handbags, accessories, and home goods. Founded in 1867 by Andrew Saks, the first store opened on New Yorks Fifth Avenue in 1924, creating a prime retail destination for upscale shopping. The company is privately held, yet the parent company, [Hudson’s Bay Company](https://www.hudsonsbaycompany.com/), is listed on the Toronto Stock Exchange under the symbol "HBC". As of its initial public offering in 2012, the market capitalization was $2.04 billion. Further information about Saks Fifth Avenue can be found on the companys [Wikipedia](https://en.wikipedia.org/wiki/Saks_Fifth_Avenue) and [Bloomberg](https://www.bloomberg.com/profile/company/771553Z:US) pages. 
+
+In the luxury department store market, **Saks Fifth Avenue** competes chiefly with [Neiman Marcus](https://www.neimanmarcus.com/), [Bloomingdales](http://www.bloomingdales.com/), and [Nordstrom](https://www.nordstrom.com/). Neiman Marcus, like Saks, is known for its designer fashions, exquisite jewelry, and luxury home goods. The company was founded in Dallas, Texas in 1907 and can be researched further on its [Wikipedia](https://en.wikipedia.org/wiki/Neiman_Marcus) and [Bloomberg](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=425838) pages. Bloomingdales, founded in New York in 1861, is a high-end chain that also sells luxury clothing, footwear, and home decor. More about the brand can be found on its [Wikipedia](https://en.wikipedia.org/wiki/Bloomingdales) and [Bloomberg](https://www.bloomberg.com/profile/company/0139904D:US) pages. Nordstrom, founded in Seattle, Washington in 1901, offers similarly upscale fashion goods with their offerings well-detailed on their [Wikipedia](https://en.wikipedia.org/wiki/Nordstrom) and [Bloomberg](https://www.bloomberg.com/profile/company/JWN:US) pages. 
+
+Web scraping has proven quite beneficial when examining data from the **Saks Fifth Avenue** website. Factual data including prices and discounts can be used in various ways. Competitive analysis benefits substantially from this data, as it allows other companies or industry analysts to compare price points for comparable goods. Similarly, trend analysis can use this data to track price fluctuations over time, ideally identifying patterns linked to sales, holidays, or industry shifts. Consumers can also use this information to find the best deals or discover when their preferred items might go on sale. Additionally, the business itself can utilize web scraped data to optimize pricing, enhance marketing strategies, and better understand consumer behavior.
+
+
+## Link to **dataset**
+
+[Saks Fifth Avenue dataset](https://www.databoutique.com/buy-data-list-subset/Saks%20Fifth%20Avenue%20web%20scraped%20data/r/recDpuDwe53GzOXWO)
